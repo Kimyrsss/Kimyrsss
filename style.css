@@ -283,12 +283,13 @@ audio {
     text-align: center;
     font-family: 'Brush Script MT', cursive;
     font-size: 70px; 
-    color: white;
-    text-shadow: 2px 2px 4px maroon;
+    color: maroon;
+    text-shadow: 2px 2px 4px black;
 }
 .footer {
     text-align: center;
     font-size: 30;
-    color: black;
+    color: white;
     text-shadow: 2px 2px 4px black;
+
 }
